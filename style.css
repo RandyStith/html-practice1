@@ -2,3 +2,23 @@ html, body {
   height: 100%;
   width: 100%;
 }
+.Halloween1{
+  color:orange;
+  background-color:black;
+  text-align:center;
+}
+.Halloween2{
+  color:orange;
+  background-color: black;
+}
+.Scary{
+  filter:invert(100%);
+border-radius:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.test{
+  object-fit: cover;
+}
